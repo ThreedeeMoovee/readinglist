@@ -149,68 +149,56 @@ Other Good Looking Books:
 ## The Rest:
 Dad recommendations: Bury My Heart at Wounded Knee, The Right Stuff, Jessica
 
-CHAN PHILOSOPHY
+### CHAN PHILOSOPHY
 - Critique of Pure Reason, by Immanuel Kant
 - Anti-Oedipus: Capitalism and Schizophrenia, by Gilles Deleuze & Félix Guattari
 - The Poetics of Space, by Gaston Bachelard
 
-WORDS OF ANCIENCE GREECE
-	- The Enneads by Plotinus
-	- Anabasis of Alexander by Arrian
-	- Anabasis by Xenophon
-	- History of the Peloponnesian Wars by Thucydides
-	- Histories by Herodotus (Greco-Persian Wars)
-	THE HISTORIES
-		- The Campaigns Of Alexander by Arrian
-		- On The Gallic War & On The Civil War by Julius Caesar
-		- Life of Julius Caesar & Life of Caligula by Suetonius
-		- Life of Julius Caesar & Life of Alexander the Great by Plutarch
-	SPEECHES
-		- Cicero - Pro Caelio
-		- Cicero - In Catilinam
-		- Cicero - 2nd, 3rd, 4th Phillipic
-	PHILOSOPHY
-		- Aristotle
-		- The Republic by Plato (with 'The School of Athens' Fresco by Raphael)
+### WORDS OF ANCIENCE GREECE
+- The Enneads by Plotinus
+- Anabasis of Alexander by Arrian
+- Anabasis by Xenophon
+- History of the Peloponnesian Wars by Thucydides
+- Histories by Herodotus (Greco-Persian Wars)
+#### THE HISTORIES
+- The Campaigns Of Alexander by Arrian
+- On The Gallic War & On The Civil War by Julius Caesar
+- Life of Julius Caesar & Life of Caligula by Suetonius
+- Life of Julius Caesar & Life of Alexander the Great by Plutarch
+#### SPEECHES
+- Cicero - Pro Caelio
+- Cicero - In Catilinam
+- Cicero - 2nd, 3rd, 4th Phillipic
+#### PHILOSOPHY
+- Aristotle
+- The Republic by Plato (with 'The School of Athens' Fresco by Raphael)
 
-U.S. PRESIDENTS
-	- Autobiography, by Theodore Roosevelt
-	- Personal Memoirs of Ulysses S. Grant
-THE ARCHITECTURE OF THE PSYCHE
-	- Maps of Meaning, by Jordan Peterson
-	- The Origins and History of Consciousness, by Erich Neumann
-	- Archetypes and the Collective Unconscious, by Carl Jung
-THE CODE OF THE WARRIOR
-	- The Book of Five Rings, by Miyamoto Musashi
-	- Hagakure, by Yamamoto Tsunetomo
-	- The Way of the Samurai, by Inazō Nitobe
-JOURNEYS OF FATE
-	- The History of Rasselas Prince of Abissinia, by Samuel Johnson
-	- Moby Dick, by Herman Merville
-	- The Count of Monte Cristo, by Alexandre Dumas
-DOSTOYEVSKY
-	- Notes From Underground, by Fyodor Dostoyevsky
-	- Crime and Punishment, by Fyodor Dostoyevsky
-	- The Brothers Karamazov, by Fyodor Dostoyevsky
-NIETZCHE
-	- Thus Spoke Zarathustra, by Fredrick Nietzsche
-	- Beyond Good And Evil, by Fredrick Nietzsche
-	- The Anti-Christ(ian), by Fredrick Nietzsche
-JUNG
-	- Modern Man in Search of a Soul, by Carl Jung
-	- Aion: Researches Into the Phenomenology of the Self, by Carl Jung
-	- The Symbolic Life (or Man And His Symbols), by Carl Jung
-FREUD
-	- Interpretation Of Dreams, by Sigmund Freud
-	- A General Introduction to Psychoanalysis, by Sigmund Freud
-	- The Unconscious, by Sigmund Freud
-ROME
-	- The Rise of the Roman Empire, by Polybius
-	- The Twelve Caesars, by Gaius Suetonius Tranquillus
-	- The History of the Decline and Fall of the Roman Empire, by Edward Gibbon
-CHRISTIANITY
-	- The History of the Church from Christ to Constantine, by Eusebius
-	- Early Christian Lives, by Athanasius
-	- The Desert Fathers, by Benedicta
-	- Ward Early Christian Writings, by Staniforth Maxwell & Maxwell Staniforth
-	- City Of God, by Saint Augustine
+### U.S. PRESIDENTS
+- Autobiography, by Theodore Roosevelt
+- Personal Memoirs of Ulysses S. Grant
+### THE ARCHITECTURE OF THE PSYCHE
+- Maps of Meaning, by Jordan Peterson
+- The Origins and History of Consciousness, by Erich Neumann
+- Archetypes and the Collective Unconscious, by Carl Jung
+### THE CODE OF THE WARRIOR
+- The Book of Five Rings, by Miyamoto Musashi
+- Hagakure, by Yamamoto Tsunetomo
+- The Way of the Samurai, by Inazō Nitobe
+### JOURNEYS OF FATE
+- The History of Rasselas Prince of Abissinia, by Samuel Johnson
+- Moby Dick, by Herman Merville
+- The Count of Monte Cristo, by Alexandre Dumas
+### FREUD
+- Interpretation Of Dreams, by Sigmund Freud
+- A General Introduction to Psychoanalysis, by Sigmund Freud
+- The Unconscious, by Sigmund Freud
+### ROME
+- The Rise of the Roman Empire, by Polybius
+- - The Twelve Caesars, by Gaius Suetonius Tranquillus
+- The History of the Decline and Fall of the Roman Empire, by Edward Gibbon
+### CHRISTIANITY
+- The History of the Church from Christ to Constantine, by Eusebius
+- Early Christian Lives, by Athanasius
+- The Desert Fathers, by Benedicta
+- Ward Early Christian Writings, by Staniforth Maxwell & Maxwell Staniforth
+- City Of God, by Saint Augustine
