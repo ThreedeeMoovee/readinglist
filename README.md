@@ -110,15 +110,13 @@
 - Mark Twain
 - William Faulkner
 - Cormac McCarthy
-
-### Recommendations:
+### Palahniuk Recommendations:
 - "Clown Girl" by Monica Drake
 - "Dora: A Headcase" by Lidia Yuknavitch
 - "Drown" by Juno Diaz
 - "Geek Love" by Katherine Dunn
 - "Miles From Nowhere" by Nami Mun
 - "Weather" by Jenny Offill
-
 ### Poetry:
 - Poetic Edda
 - First World War poets: Siegfried Sassoon, Rupert Brooke, Wilfred Owen, Ivor Gurney, Isaac Rosenberg
@@ -126,18 +124,16 @@
 - Samuel Taylor Coleridge
 - Mu'allaqat, by various
 - Masnavi, by Jalal al-Din Muhammad Rumi
-
 ### History: 
 - The Four Voyages of Christopher Columbus by Christopher Columbus
 - The Conquest of New Spain by Bernaz Diaz del
 - Storm of Steel, by Ernst Jünger
 - Reflections on the Revolution in France, by Edmund Burke
-
+- Memoirs of Napoleon Bonaparte, by Louis Bourrienne
 ### Australia: 
 - History: The Fatal Shore
 - Government: The Australian Constitution and Harold Holt NAA Records
 - Prime Ministers: Alfred Deakin and Robert Menzie
-
 ### Other Good Looking Books:
 - “The Cloud Of Unknowing and Other Works” by A.C. Spearing
 - “Selected Writings” by Meister Eckhart
@@ -145,36 +141,14 @@
 - “Sun and Steel” by Yukio Mishima
 - “Ten Days That Shook The World” by John Reid
 - "Le Morte d'Arthur" by Thomas Malory
-
 ### Dad recommendations
 - Bury My Heart at Wounded Knee
 - The Right Stuff
 - Jessica
-
 ### CHAN PHILOSOPHY
 - Critique of Pure Reason, by Immanuel Kant
 - Anti-Oedipus: Capitalism and Schizophrenia, by Gilles Deleuze & Félix Guattari
 - The Poetics of Space, by Gaston Bachelard
-
-### WORDS OF ANCIENCE GREECE
-- The Enneads by Plotinus
-- Anabasis of Alexander by Arrian
-- Anabasis by Xenophon
-- History of the Peloponnesian Wars by Thucydides
-- Histories by Herodotus (Greco-Persian Wars)
-#### THE HISTORIES
-- The Campaigns Of Alexander by Arrian
-- On The Gallic War & On The Civil War by Julius Caesar
-- Life of Julius Caesar & Life of Caligula by Suetonius
-- Life of Julius Caesar & Life of Alexander the Great by Plutarch
-#### SPEECHES
-- Cicero - Pro Caelio
-- Cicero - In Catilinam
-- Cicero - 2nd, 3rd, 4th Phillipic
-#### PHILOSOPHY
-- Aristotle
-- The Republic by Plato (with 'The School of Athens' Fresco by Raphael)
-
 ### U.S. PRESIDENTS
 - Autobiography, by Theodore Roosevelt
 - Personal Memoirs of Ulysses S. Grant
@@ -201,6 +175,22 @@
 ### CHRISTIANITY
 - The History of the Church from Christ to Constantine, by Eusebius
 - Early Christian Lives, by Athanasius
-- The Desert Fathers, by Benedicta
-- Ward Early Christian Writings, by Staniforth Maxwell & Maxwell Staniforth
 - City Of God, by Saint Augustine
+### WORDS OF ANCIENCE GREECE
+- The Enneads by Plotinus
+- Anabasis of Alexander by Arrian
+- Anabasis by Xenophon
+- History of the Peloponnesian Wars by Thucydides
+- Histories by Herodotus (Greco-Persian Wars)
+#### THE HISTORIES
+- The Campaigns Of Alexander by Arrian
+- On The Gallic War & On The Civil War by Julius Caesar
+- Life of Julius Caesar & Life of Caligula by Suetonius
+- Life of Julius Caesar & Life of Alexander the Great by Plutarch
+#### SPEECHES
+- Cicero: Pro Caelio
+- Cicero: In Catilinam
+- Cicero: 2nd, 3rd, 4th Phillipic
+#### PHILOSOPHY
+- The Metaphysics by Aristotle
+- The Republic by Plato
