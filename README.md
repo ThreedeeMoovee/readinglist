@@ -1,47 +1,4 @@
 # readinglist
-Complete Bibliography's Of:
-- Ernest Hemmingway
-- John Steinbeck
-- Mark Twain
-- William Faulkner
-- Cormac McCarthy
-
-Recommendations:
-- "Clown Girl" by Monica Drake
-- "Dora: A Headcase" by Lidia Yuknavitch
-- "Drown" by Juno Diaz
-- "Geek Love" by Katherine Dunn
-- "Miles From Nowhere" by Nami Mun
-- "Weather" by Jenny Offill
-
-Poetry:
-- Poetic Edda
-- First World War poets: Siegfried Sassoon, Rupert Brooke, Wilfred Owen, Ivor Gurney, Isaac Rosenberg
-- Lord Byron
-- Samuel Taylor Coleridge
-- Mu'allaqat, by various
-- Masnavi, by Jalal al-Din Muhammad Rumi
-
-History: 
-- The Four Voyages of Christopher Columbus by Christopher Columbus
-- The Conquest of New Spain by Bernaz Diaz del
-- Storm of Steel, by Ernst Jünger
-- Reflections on the Revolution in France, by Edmund Burke
-
-Australia: 
-- History: The Fatal Shore
-- Government: The Australian Constitution and Harold Holt NAA Records
-- Prime Ministers: Alfred Deakin and Robert Menzie
-
-Other Good Looking Books:
-- “The Cloud Of Unknowing and Other Works” by A.C. Spearing
-- “Selected Writings” by Meister Eckhart
-- “Essays in Idleness and Hojoki” by Chomei And Kenko Yoshida
-- “Sun and Steel” by Yukio Mishima
-- “Ten Days That Shook The World” by John Reid
-- "Le Morte d'Arthur" by Thomas Malory
-
-
 ## Jordan Peterson Reading List:
 1.	(Literature/Philosophy)	Bronte	Wuthering Heights
 2.	(Literature/Philosophy)	Bulgakov	The Master and Margarita
@@ -147,7 +104,52 @@ Other Good Looking Books:
 102.	(State of the World)	Rosling	Factfulness
 
 ## The Rest:
-Dad recommendations: Bury My Heart at Wounded Knee, The Right Stuff, Jessica
+### Complete Bibliography's Of:
+- Ernest Hemmingway
+- John Steinbeck
+- Mark Twain
+- William Faulkner
+- Cormac McCarthy
+
+### Recommendations:
+- "Clown Girl" by Monica Drake
+- "Dora: A Headcase" by Lidia Yuknavitch
+- "Drown" by Juno Diaz
+- "Geek Love" by Katherine Dunn
+- "Miles From Nowhere" by Nami Mun
+- "Weather" by Jenny Offill
+
+### Poetry:
+- Poetic Edda
+- First World War poets: Siegfried Sassoon, Rupert Brooke, Wilfred Owen, Ivor Gurney, Isaac Rosenberg
+- Lord Byron
+- Samuel Taylor Coleridge
+- Mu'allaqat, by various
+- Masnavi, by Jalal al-Din Muhammad Rumi
+
+### History: 
+- The Four Voyages of Christopher Columbus by Christopher Columbus
+- The Conquest of New Spain by Bernaz Diaz del
+- Storm of Steel, by Ernst Jünger
+- Reflections on the Revolution in France, by Edmund Burke
+
+### Australia: 
+- History: The Fatal Shore
+- Government: The Australian Constitution and Harold Holt NAA Records
+- Prime Ministers: Alfred Deakin and Robert Menzie
+
+### Other Good Looking Books:
+- “The Cloud Of Unknowing and Other Works” by A.C. Spearing
+- “Selected Writings” by Meister Eckhart
+- “Essays in Idleness and Hojoki” by Chomei And Kenko Yoshida
+- “Sun and Steel” by Yukio Mishima
+- “Ten Days That Shook The World” by John Reid
+- "Le Morte d'Arthur" by Thomas Malory
+
+### Dad recommendations
+- Bury My Heart at Wounded Knee
+- The Right Stuff
+- Jessica
 
 ### CHAN PHILOSOPHY
 - Critique of Pure Reason, by Immanuel Kant
@@ -194,7 +196,7 @@ Dad recommendations: Bury My Heart at Wounded Knee, The Right Stuff, Jessica
 - The Unconscious, by Sigmund Freud
 ### ROME
 - The Rise of the Roman Empire, by Polybius
-- - The Twelve Caesars, by Gaius Suetonius Tranquillus
+- The Twelve Caesars, by Gaius Suetonius Tranquillus
 - The History of the Decline and Fall of the Roman Empire, by Edward Gibbon
 ### CHRISTIANITY
 - The History of the Church from Christ to Constantine, by Eusebius
