@@ -153,9 +153,9 @@
 - Autobiography, by Theodore Roosevelt
 - Personal Memoirs of Ulysses S. Grant
 ### THE ARCHITECTURE OF THE PSYCHE
-- Maps of Meaning, by Jordan Peterson
+- Symbols of Transformation, by Carl Jung
 - The Origins and History of Consciousness, by Erich Neumann
-- Archetypes and the Collective Unconscious, by Carl Jung
+- Maps of Meaning, by Jordan Peterson
 ### THE CODE OF THE WARRIOR
 - The Book of Five Rings, by Miyamoto Musashi
 - Hagakure, by Yamamoto Tsunetomo
