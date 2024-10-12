@@ -15,9 +15,9 @@
 'Complete Poems of Samuel Taylor Coleridge' (Penguin Classics) by Samuel Taylor Coleridge
 'Selected Poems' (Penguin Classics) by Lord Byron
 
-Paradise Lost, by Milton
+'''Paradise Lost, by Milton
 Essays, by Ralph Waldo Emerson
-Poems & Songs, by Robert Burns
+Poems & Songs, by Robert Burns'''
 
 Confessions, by Augustine
 Imitation, by Kempis
