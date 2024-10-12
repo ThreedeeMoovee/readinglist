@@ -1,6 +1,6 @@
 # readinglist
 ## Havard Classics (sort of):
--'Personal Memoirs of U. S. Grant' by U. S. Grant
+- 'Personal Memoirs of U. S. Grant' by U. S. Grant
 - 'Narrative of the Life of’’ by Frederick Douglass
 - 'Walden' by Henry David Thoreau
 
