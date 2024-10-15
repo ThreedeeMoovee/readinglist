@@ -14,63 +14,62 @@
 - 'The Poetic Edda' translated by Lee M. Hollander
 - 'Complete Poems of Samuel Taylor Coleridge' (Penguin Classics) by Samuel Taylor Coleridge
 - 'Selected Poems' (Penguin Classics) by Lord Byron
-
+---
 - Paradise Lost, by Milton
 - Essays, by Ralph Waldo Emerson
 - Poems & Songs, by Robert Burns
-
+---
 - Confessions, by Augustine
 - Imitation, by Kempis
-
+---
 - First, Aeschylus. (on Google Drive)
 - Second, Sophocles. (on Google Drive)
 - Then, Euripides. (on Google Drive)
 - Finally, Aristophanes. (on Google Drive)
-
+---
 - Cicero: On Living and Dying Well (on Audible)
 - Pliny: The Letters of Pliny The Younger (on Aud.)
 - Smith: Wealth Of Nations (on Audible)
-
+---
 - Darwin: Origin Of Species (on Audible)
 - Darwin: The Voyage Of The Beagle (on Audible)
 - Plutarch: Lives (on Audible)
-
+---
 - The Aeneid by Virgil
 - Don Quixote by Miguel de Cervantes
 - The Pilgrim's Progress by John Bunyan
 - Lives of Donne and Herbert by Izaack Waltons
-
+---
 - The Thousand and One Nights
 - The Completed Fables by Aesop
 - Grimms' Fairy Tales by Grimm
 - Andersen's Fairy Tales by Hans Christian And.
-
+---
 - The Cenci, by Percy Bysshe Shelley (play)
 - Manfred, by Lord Byron (play)
 - Faust, by Johann Wolfgang von Goethe (play)
-
+---
 - The Divine Comedy, by Dante Alighieri
 - The Betrothed, by Alessandro Manzoni
 - Illiad & Odyssey, by Homer
-
+---
 - Two Years Before the Mast, by Richard Henry Dana, Jr.
 - On Taste, On the Sublime and Beautiful, Reflections on the French Revolution, by Edmund Burke
 - A Letter to a Noble Lord, by Edmund Burke
-
+---
 - Autobiography and On Liberty, by John Stuart Mill
 - Characteristics, Inaugural Address at Edinburgh, and Sir Walter Scott, by Thomas Carlyle
-
+---
 - Harvard Classics – Vol. 27. English Essays, Sidney to Macaulay
 - Harvard Classics – Vol. 28. Essays, English and American
-
 - Harvard Classics – Vol. 30. Scientific Papers by Faraday, Helmholtz, Kelvin, Newcomb, etc.
-
+---
 - The Autobiography of Benvenuto Cellini
 - Essays, by Michel Eyquem de Montaigne
 - The Poetry of the Celtic Races, by Ernest Renan
 - Fundamental Principles of the Metaphysic of Morals, by Immanuel Kant
 - Byron and Goethe, by Giuseppe Mazzini
-
+---
 - The Histories, by Herodotus
 - Germany, by Tacitus
 - Sir Francis Drake Revived, by Philip Nichols
@@ -78,43 +77,43 @@
 - Drake's Great Armada, by Captain Walter Bigges
 - Sir Humphrey Gilbert's Voyage to Newfoundland, by Edward Haies
 - The Discovery of Guiana, by Sir Walter Raleigh
-
+---
 - On the Inequality among Mankind and Profession of Faith of a Savoyard Vicar, by Jean Jacques Rousseau
 - Of Man, Being the First Part of Leviathan, by Thomas Hobbes
-
+---
 - Chronicles, by Jean Froissart
 - The Holy Grail, by Sir Thomas Malory
 - A Description of Elizabethan England, by William Harrison
-
+---
 - The Prince, by Niccolò Machiavelli
 - The Life of Sir Thomas More, by William Roper
 - Utopia, by Sir Thomas More
 - The Ninety-Five Theses, To the Christian Nobility, and On the Freedom of a Christian, by Martin Luther
-
+---
 - Some Thoughts Concerning Education, by John Locke
 - Three Dialogues Between Hylas and Philonous in Opposition to Sceptics & Atheists, by George Berkeley
 - An Enquiry Concerning Human Understanding, by David Hume
-
-- Hippocratic Writings (Penguin Classics) by Hippocrates
-- The Works of’ by John Hunter
+---
+- 'Hippocratic Writings' (Penguin Classics) by Hippocrates
+- 'The Works of'' by John Hunter
 - ‘Genius on the Edge’ by Gerald Imber and ‘The Harvey Lectures’ by William Stewart Halsted
-
+---
 - Complete Works of’ by Geoffrey Chaucer
 - Leaves Of Grass by Walt Whitman
-
+---
 - The Holy Bible
 - Qu’ran
 - Bhagavad-Gita
 - The Analects by Confucius
 - Buddhist Scriptures (Penguin Classics), edited by Donald Lopez
-
+---
 - Complete Works of’ by William Shakespeare
 - Thoughts, letters, and minor works, by Blaise Pascal
-
+---
 - Beowulf
 - The Song of Roland
 - The Story of the Volsungs and Niblungs
-
+---
 - Bibliotheca (Pseudo-Apollodorus)
 - The Decameron
 - Dialogue Concerning the Two Chief World Systems
