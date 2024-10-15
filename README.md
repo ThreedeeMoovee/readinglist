@@ -3,15 +3,14 @@
 - 'Personal Memoirs of U. S. Grant' by U. S. Grant
 - 'Narrative of the Life of’’ by Frederick Douglass
 - 'Walden' by Henry David Thoreau
-<br>
-<br>
+---
 - 'Letters from a Stoic' by Seneca
 - 'Republic' by Plato
 - 'The Metaphysics' by Aristotle
-
+---
 - 'Treatises of Gov.,' Concerning Toleration' and 'Concerning' Understanding' by John Locke
 - 'Pensees' by Blaise Pascal
-
+---
 - 'The Poetic Edda' translated by Lee M. Hollander
 - 'Complete Poems of Samuel Taylor Coleridge' (Penguin Classics) by Samuel Taylor Coleridge
 - 'Selected Poems' (Penguin Classics) by Lord Byron
