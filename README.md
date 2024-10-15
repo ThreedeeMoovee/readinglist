@@ -1,9 +1,9 @@
 # readinglist
-## Havard Classics (sort of):
+## Charles William Eliot Classics:
 - 'Personal Memoirs of U. S. Grant' by U. S. Grant
 - 'Narrative of the Life of’’ by Frederick Douglass
 - 'Walden' by Henry David Thoreau
-
+<br />
 - 'Letters from a Stoic' by Seneca
 - 'Republic' by Plato
 - 'The Metaphysics' by Aristotle
@@ -121,8 +121,8 @@
 - Leviathan (Hobbes book)
 - On the Consolation of Philosophy by Boethius
 
-## Jordan Peterson Reading List:
-1.	(Lit/Phil)	Bronte	, 	Wuthering Heights
+## Peterson Reading List:
+1.	(Lit/Phil)	Bronte	,  Wuthering Heights
 2.	(Lit/Phil)	Bulgakov	, 	The Master and Margarita
 3.	(Lit/Phil)	Cary	, 	The Horse's Mouth
 4.	(Lit/Phil)	Chandler	, 	The Big Sleep
@@ -224,6 +224,7 @@
 100.	(World/State)	Pinker	, 	Enlightenment Now
 101.	(World/State)	Ridley	, 	The Rational Optimist
 102.	(World/State)	Rosling	, 	Factfulness
+103.	(Other) Norretranders , The User Illusion
 
 ## The Rest:
 ### Complete Bibliography's Of:
@@ -241,7 +242,12 @@
 - "Weather" by Jenny Offill
 ### Poetry:
 - Poetic Edda
-- First World War poets: Siegfried Sassoon, Rupert Brooke, Wilfred Owen, Ivor Gurney, Isaac Rosenberg
+- First World War poets:
+  - Siegfried Sassoon
+  - Rupert Brooke
+  - Wilfred Owen
+  - Ivor Gurney
+  - Isaac Rosenberg
 - Lord Byron
 - Samuel Taylor Coleridge
 - Mu'allaqat, by various
@@ -309,10 +315,6 @@
 - On The Gallic War & On The Civil War by Julius Caesar
 - Life of Julius Caesar & Life of Caligula by Suetonius
 - Life of Julius Caesar & Life of Alexander the Great by Plutarch
-#### SPEECHES
-- Cicero: Pro Caelio
-- Cicero: In Catilinam
-- Cicero: 2nd, 3rd, 4th Phillipic
 #### PHILOSOPHY
 - The Metaphysics by Aristotle
 - The Republic by Plato
