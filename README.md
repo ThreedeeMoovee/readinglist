@@ -57,7 +57,7 @@
 - On Taste, On the Sublime and Beautiful, Reflections on the French Revolution, by Edmund Burke
 - A Letter to a Noble Lord, by Edmund Burke
 ---
-- Autobiography and On Liberty, by John Stuart Mill
+- Autobiography and On Liberty (and Three Essays on Religion), by John Stuart Mill
 - Characteristics, Inaugural Address at Edinburgh, and Sir Walter Scott, by Thomas Carlyle
 ---
 - Harvard Classics – Vol. 27. English Essays, Sidney to Macaulay
