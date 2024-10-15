@@ -3,11 +3,12 @@
 - 'Personal Memoirs of U. S. Grant' by U. S. Grant
 - 'Narrative of the Life of’’ by Frederick Douglass
 - 'Walden' by Henry David Thoreau
-<pre>
+<br>
+<br>
 - 'Letters from a Stoic' by Seneca
 - 'Republic' by Plato
 - 'The Metaphysics' by Aristotle
-</pre>
+
 - 'Treatises of Gov.,' Concerning Toleration' and 'Concerning' Understanding' by John Locke
 - 'Pensees' by Blaise Pascal
 
