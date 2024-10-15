@@ -7,7 +7,7 @@
 - 'Letters from a Stoic' by Seneca
 - 'Republic' by Plato
 - 'The Metaphysics' by Aristotle
-<br>
+<br />
 - 'Treatises of Gov.,' Concerning Toleration' and 'Concerning' Understanding' by John Locke
 - 'Pensees' by Blaise Pascal
 <br>
