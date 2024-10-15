@@ -3,7 +3,7 @@
 - 'Personal Memoirs of U. S. Grant' by U. S. Grant
 - 'Narrative of the Life of’’ by Frederick Douglass
 - 'Walden' by Henry David Thoreau
-<br />
+<br /> 
 - 'Letters from a Stoic' by Seneca
 - 'Republic' by Plato
 - 'The Metaphysics' by Aristotle
