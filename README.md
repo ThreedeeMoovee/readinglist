@@ -1,21 +1,5 @@
 # readinglist
 ## Charles William Eliot Classics:
-- 'Personal Memoirs of U. S. Grant' by U. S. Grant
-- 'Narrative of the Life of’’ by Frederick Douglass
-- 'Walden' by Henry David Thoreau
----
-- 'Letters from a Stoic' by Seneca
-- 'Republic' by Plato
-- 'The Metaphysics' by Aristotle
----
-- 'Treatises of Gov.,' Concerning Toleration' and 'Concerning' Understanding' by John Locke
-- 'Pensees' by Blaise Pascal
----
-- 'The Poetic Edda' translated by Lee M. Hollander
-- 'Complete Poems of Samuel Taylor Coleridge' (Penguin Classics) by Samuel Taylor Coleridge
-- 'Selected Poems' (Penguin Classics) by Lord Byron
-- Penguin Book Of First World War Poetry, edited by Jon Silkin
----
 - Paradise Lost, by Milton
 - Essays, by Ralph Waldo Emerson
 - Poems & Songs, by Robert Burns
@@ -23,12 +7,10 @@
 - Confessions, by Augustine
 - Imitation, by Kempis
 ---
-NOW REFLECT AND RE-READ WHAT'S NECESSARY
----
-- First, Aeschylus. (on Google Drive)
-- Second, Sophocles. (on Google Drive)
-- Then, Euripides. (on Google Drive)
-- Finally, Aristophanes. (on Google Drive)
+- Plays of Aeschylus (on Google Drive)
+- Plays of Sophocles (on Google Drive)
+- Plays of Euripides (on Google Drive)
+- Plays of Aristophanes (on Google Drive)
 ---
 - Cicero: On Living and Dying Well (on Audible)
 - Pliny: The Letters of Pliny The Younger (on Aud.)
@@ -51,6 +33,9 @@ NOW REFLECT AND RE-READ WHAT'S NECESSARY
 - The Cenci, by Percy Bysshe Shelley (play)
 - Manfred, by Lord Byron (play)
 - Faust, by Johann Wolfgang von Goethe (play)
+- Life is a Dream, by Pedro Calderón de la Barca
+- Polyeucte, by Pierre Corneille
+- William Tell, by Friedrich von Schiller
 ---
 - The Divine Comedy, by Dante Alighieri
 - The Betrothed, by Alessandro Manzoni
@@ -117,6 +102,22 @@ NOW REFLECT AND RE-READ WHAT'S NECESSARY
 - Beowulf
 - The Song of Roland
 - The Story of the Volsungs and Niblungs
+### More Readings
+- 'Personal Memoirs of U. S. Grant' by U. S. Grant
+- 'Narrative of the Life of’’ by Frederick Douglass
+- 'Walden' by Henry David Thoreau
+---
+- 'Letters from a Stoic' by Seneca
+- 'Republic' by Plato
+- 'The Metaphysics' by Aristotle
+---
+- 'Treatises of Gov.,' Concerning Toleration' and 'Concerning' Understanding' by John Locke
+- 'Pensees' by Blaise Pascal
+---
+- 'The Poetic Edda' translated by Lee M. Hollander
+- 'Complete Poems of Samuel Taylor Coleridge' (Penguin Classics) by Samuel Taylor Coleridge
+- 'Selected Poems' (Penguin Classics) by Lord Byron
+- Penguin Book Of First World War Poetry, edited by Jon Silkin
 ---
 - Bibliotheca (Pseudo-Apollodorus)
 - The Decameron
