@@ -33,9 +33,9 @@
 - The Cenci, by Percy Bysshe Shelley (play)
 - Manfred, by Lord Byron (play)
 - Faust, by Johann Wolfgang von Goethe (play)
-- Life is a Dream, by Pedro Calderón de la Barca
-- Polyeucte, by Pierre Corneille
-- William Tell, by Friedrich von Schiller
+- Life is a Dream, by Pedro Calderón de la Barca (play)
+- Polyeucte, by Pierre Corneille (play)
+- William Tell, by Friedrich von Schiller (play)
 ---
 - The Divine Comedy, by Dante Alighieri
 - The Betrothed, by Alessandro Manzoni
@@ -102,6 +102,7 @@
 - Beowulf
 - The Song of Roland
 - The Story of the Volsungs and Niblungs
+---
 ### More Readings
 - 'Personal Memoirs of U. S. Grant' by U. S. Grant
 - 'Narrative of the Life of’’ by Frederick Douglass
@@ -265,7 +266,7 @@
 - Critique of Pure Reason, by Immanuel Kant
 - Anti-Oedipus: Capitalism and Schizophrenia, by Gilles Deleuze & Félix Guattari
 - The Poetics of Space, by Gaston Bachelard
-### Architecture Of The psyche
+### Architecture Of The Psyche
 - Symbols of Transformation, by Carl Jung
 - The Origins and History of Consciousness, by Erich Neumann
 - Maps of Meaning, by Jordan Peterson
