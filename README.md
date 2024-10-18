@@ -298,5 +298,3 @@
 - On The Gallic War & On The Civil War by Julius Caesar
 - Life of Julius Caesar & Life of Caligula by Suetonius
 - Life of Julius Caesar & Life of Alexander the Great by Plutarch
-#### Philosophy
-- The Metaphysics by Aristotle
