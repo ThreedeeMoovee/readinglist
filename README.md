@@ -63,8 +63,10 @@ NOW REFLECT AND RE-READ WHAT'S NECESSARY
 - Autobiography and On Liberty (and Three Essays on Religion), by John Stuart Mill
 - Characteristics, Inaugural Address at Edinburgh, and Sir Walter Scott, by Thomas Carlyle
 ---
-- Harvard Classics – Vol. 27. English Essays, Sidney to Macaulay
-- Harvard Classics – Vol. 28. Essays, English and American
+- The Complete Essays Of, by Mark Twain
+- The Anatomy of Melancholy, by Robert Burton
+- Selected Essays, by Samuel Johnson
+---
 - Harvard Classics – Vol. 30. Scientific Papers by Faraday, Helmholtz, Kelvin, Newcomb, etc.
 ---
 - The Autobiography of Benvenuto Cellini
@@ -104,7 +106,6 @@ NOW REFLECT AND RE-READ WHAT'S NECESSARY
 - Complete Works of’ by Geoffrey Chaucer
 - Leaves Of Grass by Walt Whitman
 ---
-- The Holy Bible
 - Qu’ran
 - Bhagavad-Gita
 - The Analects by Confucius
